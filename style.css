@@ -1,0 +1,101 @@
+
+}
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky .navbar-default{
+	background-color: #131C22;
+}
+header{
+	background-color: #000000 ;
+}
+
+}
+h5{
+	color: #171717;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3,h3,p{
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+
+#hero{
+	background: url("../img/bg-hero.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 10%;
+	text-align: center;
+	font:800;
+	color: #FFFFFF;
+
+	
+}
+
+
+
+.aboutus h2{
+	font-family: 'Montserrat', sans-serif;
+	
+
+}
+
+
+#aboutus .h1{
+	color: #ECF1F3;
+}
+
+.btn-aboutus{
+	background-color: #FFFFFF;
+	color: aqua;
+	border-color: #2196F3;
+}
+#cuatro{
+	background: url("../img/bg-counter.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #fff;
+	padding: 10%;
+	
+}
+
+
+
+
+
+footer{
+	background-color: #222528;
+	padding: 10%;
+	color: #99a9b5;
+}
+
+
+.social-nav i{
+	width: 28px;
+	height: 28px;
+	line-height: 28px;
+	text-align: center;
+	background-color: var(--color-verde);
+	color: #fff;
+	border-radius: 100%;
+}
+.social-nav .nav-link{
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+
+
+
+
+
+
+
+
